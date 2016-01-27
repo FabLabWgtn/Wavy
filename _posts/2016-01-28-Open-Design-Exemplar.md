@@ -8,6 +8,6 @@ title: Open Design Exemplar
 
 <p>Our team was required to select an Open Design exemplar piece in order to provide a basis for reference, exploration and research. We chose to explore the <strong>Kerf Lamp</strong></p>
 
-![My helpful screenshot]({{ https://github.com/FabLabWgtn/Wavy.git }}Wavy/_images/Kerf Lamp 1.jpg)
+<img src="http://cdn.instructables.com/FOT/TTBT/HOSLKKT7/FOTTTBTHOSLKKT7.LARGE.jpg">
 
 </body>
