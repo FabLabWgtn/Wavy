@@ -6,7 +6,6 @@ title: Open Design Exemplar
 
 <body>
 
-
 <img src="http://cdn.instructables.com/FOT/TTBT/HOSLKKT7/FOTTTBTHOSLKKT7.LARGE.jpg">
 
 <p>Our team was required to select an Open Design exemplar piece in order to provide a basis for reference, exploration and research. We chose to explore the <strong>Kerf Lamp</strong></p>
@@ -16,8 +15,6 @@ title: Open Design Exemplar
 <p>The qualities of light are wide ranging and has potential for a mesmerising result. This project in particular utilises motion and proximity activation to control the brightness of an LED strip. The light hence emanates through the enclosing structure of the lamp.</p>
 
 <iframe src="https://player.vimeo.com/video/81082152" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-The following image documents the electronic components used within the product:
 
 <img src="http://cdn.instructables.com/FMF/MU6S/HOUG50NE/FMFMU6SHOUG50NE.MEDIUM.jpg">
 
