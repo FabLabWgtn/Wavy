@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head> 
-
-Layout: Post
-Title: Intro and Manifesto
-
-</head>
-
 <body> 
 
 <H1> Team Introduction and Workflow Manifesto </H1>
