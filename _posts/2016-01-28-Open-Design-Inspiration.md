@@ -7,6 +7,7 @@ title: Inspiration
 
 <h3>Wooden Ripple</h3>
 
+<iframe src="Examplars/Inspirations/Water%20Experiment%20No.%2033%20Automata%20Video.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <embed src="../Examplars/Inspirations/Water%20Experiment%20No.%2033%20Automata%20Video.webm" controller="true">
 <embed src="../Examplars/Inspirations/WOODEN%20RIPPLE%20EFFECT...%20AN%20INVENTION%20!!%20by%20Artist%20Robert%20Andrew.webm" controller="true">
 <p>inspired by the work of Reuben Margolin these kinetic sculptures use a simple mechanic to create organic movement.This work has huge potential to be developed and applied to the Kerf Lamp.</p>
