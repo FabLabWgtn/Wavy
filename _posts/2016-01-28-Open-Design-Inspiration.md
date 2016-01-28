@@ -7,8 +7,8 @@ title: Inspiration
 
 <h3>Wooden Ripple</h3>
 
-<iframe src="../Examplars/Inspirations/Water Experiment No. 33 Automata Video.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="../Examplars/Inspirations/WOODEN RIPPLE EFFECT... AN INVENTION !! by Artist Robert Andrew.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="/Examplars/Inspirations/Water Experiment Automata.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="/Examplars/Inspirations/wooden ripple effect by Robert Andrew.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>inspired by the work of Reuben Margolin these kinetic sculptures use a simple mechanic to create organic movement.This work has huge potential to be developed and applied to the Kerf Lamp.</p>
 
@@ -19,5 +19,11 @@ title: Inspiration
 <iframe src="https://youtu.be/D2HF-1xjpP8" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>.</p>
 <p>Outside of the organic result of this effect the great range of motion achievable through manipulating one component. Taking the concept of 'The ripple effect' and applying light, shadow, opacity and form We (Team Wavy) have a good grounding to start developing from.</p>
+<p>.</p>
+<iframe width="420" height="315"
+src="https://youtu.be/D2HF-1xjpP8">
+</iframe> 
+<p>.</p>
+
 
 </body>
