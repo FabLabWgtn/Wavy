@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspiration
+title: Mood Book
 ---
 
 <body>
