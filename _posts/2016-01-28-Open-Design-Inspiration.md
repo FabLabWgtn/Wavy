@@ -7,8 +7,19 @@ title: Inspiration
 
 <h3>Wooden Ripple</h3>
 
-<iframe src="/Examplars/Inspirations/Water Experiment Automata.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="/Examplars/Inspirations/wooden ripple effect by Robert Andrew.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="Examplars/Inspirations/Water Experiment Automata.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="Examplars/Inspirations/wooden ripple effect by Robert Andrew.webm" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>a</p>
+
+<embed src="/Examplars/Inspirations/Water Experiment Automata.webm" width="600" height="400" scale="aspect" controller="true">
+<embed src="/Examplars/Inspirations/wooden ripple effect by Robert Andrew.webm" width="600" height="400" scale="aspect" controller="true">
+
+<p>b</p>
+
+<video src="/Examplars/Inspirations/Water Experiment Automata.webm" width="375" height="280" controls></video>
+<video src="/Examplars/Inspirations/wooden ripple effect by Robert Andrew.webm" width="375" height="280" controls></video>
+
 
 <p>inspired by the work of Reuben Margolin these kinetic sculptures use a simple mechanic to create organic movement.This work has huge potential to be developed and applied to the Kerf Lamp.</p>
 
