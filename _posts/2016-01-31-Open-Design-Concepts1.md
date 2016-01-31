@@ -7,7 +7,7 @@ title: Open Design Exemplar
 
 ## Test
 
-![Image](/working files/concepts/1.jpg)
+![Image](https://github.com/FabLabWgtn/Wavy/blob/gh-pages/working%20files/concepts/1.jpg)
 ![Image2](//working files/concepts/1.jpg)
 ![Image](../working files/concepts/1.jpg)
 ![Image](..//working files/concepts/1.jpg)
