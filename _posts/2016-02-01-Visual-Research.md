@@ -1,1 +1,1 @@
-![image]({{site.baseurl}}/working/light reflection 1.jpg)
+![light]({{site.baseurl}}/working/light reflection 1.jpg "light")
