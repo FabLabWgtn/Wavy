@@ -7,7 +7,16 @@ title: Open Design Exemplar
 
 ## Test
 
-![alt text](/working files/concepts/1.jpg "Draft of ripple effect")
+![Image](/working files/concepts/1.jpg)
+![Image2](//working files/concepts/1.jpg)
+![Image](../working files/concepts/1.jpg)
+![Image](..//working files/concepts/1.jpg)
+![Image](/../working files/concepts/1.jpg)
+![Image](//../working files/concepts/1.jpg)
+
+
+
+
 + point one
 + point two
 + mark down test
