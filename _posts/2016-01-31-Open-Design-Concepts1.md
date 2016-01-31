@@ -4,11 +4,12 @@
 
 
 ![Image](https://github.com/FabLabWgtn/Wavy/blob/gh-pages/working/concepts/1.jpg?raw=true)
-![Image2](https://github.com/FabLabWgtn/Wavy/blob/gh-pages/working/concepts/1.jpg)
-![Image3](https://raw.githubusercontent.com/FabLabWgtn/Wavy/gh-pages/working/concepts/1.jpg)
-![Image4](Wavy/working/concepts/1.jpg)
-![Image5](/working/concepts/1.jpg)
-![Image6](working/concepts/1.jpg)
+![Image](https://github.com/FabLabWgtn/Wavy/blob/gh-pages/working/concepts/1.jpg)
+![Image](https://raw.githubusercontent.com/FabLabWgtn/Wavy/gh-pages/working/concepts/1.jpg)
+![Image](Wavy/working/concepts/1.jpg)
+![Image](/working/concepts/1.jpg)
+![Image](working/concepts/1.jpg)
+![image](https://github.com/FabLabWgtn/Wavy/working/concepts/1.jpg)
 
 
 
