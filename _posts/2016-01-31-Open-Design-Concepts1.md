@@ -1,9 +1,3 @@
----
-layout: post
-title: Open Design Exemplar
----
-
-
 
 ## Test
 
