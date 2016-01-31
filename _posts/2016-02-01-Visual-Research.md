@@ -1,1 +1,1 @@
-![image]({{https://github.com/FabLabWgtn/Wavy.git}}Wavy/_images/light reflection 1.jpg 
+![image]({{site.baseurl}}/_images/light reflection 1.jpg 
