@@ -83,6 +83,12 @@ title: Mood Book
 <p>	-Movement of the pendulum is very interesting and gives a "Wavy" effect</p>
 <p>	-Can be further investigated and might be able to incorporate the movement / mechanism in future design</p>
 
+<br>
+<h3>Paul Friedlander's kinetic light sculpture</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW_GOIu1wm0" frameborder="0" allowfullscreen></iframe>
+<p>	-Kinetic Light Sculptures</p>
+<p>	-Movement of light is very interesting and can be a source of inspiration to the future design</p>
+<p>	-Examples of how light can be used to form interesting visuals</p>
 
 
 </body>
