@@ -76,6 +76,12 @@ title: Mood Book
 <p>	-potential if individual movement of sheets is added</p>
 
 
+<br>
+<p>Pendulum Wave Toy</p>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=yVkdfJ9PkRQ" frameborder="0" allowfullscreen></iframe>
+<p>	-Pendulum wave toy that has pendulums that vary in length</p>
+<p>	-Movement of the pendulum is very interesting and gives a "Wavy" effect</p>
+<p>	-Can be further investigated and might be able to incorporate the movement / mechanism in future design</p>
 
 
 
