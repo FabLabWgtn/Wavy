@@ -68,14 +68,56 @@ title: Concepts
 ![Image]({{site.baseurl}}/working/concepts/waves mechcanics concept.png)
 * a more indepth look into the mechanics of the wave form silloete
 
+![Image]({{site.baseurl}}/working/concepts/15.jpg)
 
-37small
+![Image]({{site.baseurl}}/working/concepts/16.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/37small.jpg)![Image]({{site.baseurl}}/working/concepts/37small.jpg)
+![Image]({{site.baseurl}}/working/concepts/17.jpg)
 
-test
+![Image]({{site.baseurl}}/working/concepts/18.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/37small.jpg)
-![Image]({{site.baseurl}}/working/concepts/37small.jpg)
+![Image]({{site.baseurl}}/working/concepts/19.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/20.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/21.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/22.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/23.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/24.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/25.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/30.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/31.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/32.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/33.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/34.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/35.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/37.jpg)
+
+![Image]({{site.baseurl}}/working/concepts/37.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 done
