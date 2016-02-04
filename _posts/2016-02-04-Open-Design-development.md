@@ -1,3 +1,7 @@
+---
+layout: post
+title: Development
+---
 
 
 ![Image]({{site.baseurl}}/working/concepts/30.jpg)
