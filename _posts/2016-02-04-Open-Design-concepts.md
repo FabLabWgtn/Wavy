@@ -102,22 +102,7 @@ title: Concepts
 
 ![Image]({{site.baseurl}}/working/concepts/35.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/37.jpg)
+![Image]({{site.baseurl}}/working/concepts/36.jpg)
 
 ![Image]({{site.baseurl}}/working/concepts/37.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-done
