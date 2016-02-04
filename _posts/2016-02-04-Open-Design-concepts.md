@@ -68,9 +68,14 @@ title: Concepts
 ![Image]({{site.baseurl}}/working/concepts/waves mechcanics concept.png)
 * a more indepth look into the mechanics of the wave form silloete
 
-![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
-![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
 
-skip
+37small
 
-![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
+![Image]({{site.baseurl}}/working/concepts/37small)![Image]({{site.baseurl}}/working/concepts/37small)
+
+test
+
+![Image]({{site.baseurl}}/working/concepts/37small)
+![Image]({{site.baseurl}}/working/concepts/37small)
+
+done
