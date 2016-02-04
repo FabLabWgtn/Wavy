@@ -51,7 +51,7 @@ title: Concepts
  * +visually interesting
  * +well documented and easy to replicate
 
-![Image]({{site.baseurl}}/working/concepts/12.jpg) ![Image]({{site.baseurl}}/working/concepts/12.jpg)
+![Image]({{site.baseurl}}/working/concepts/12.jpg)
 * experimenting with differnt shapes to block out the light
  * +with the implamentation of material to create visual disrotions we are incorpriating another aspect of team Wave into the project.
 
@@ -68,6 +68,9 @@ title: Concepts
 ![Image]({{site.baseurl}}/working/concepts/waves mechcanics concept.png)
 * a more indepth look into the mechanics of the wave form silloete
 
+![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
+![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
 
+skip
 
-
+![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)![Image]({{site.baseurl}}/working/concepts/12.jpg =150x)
