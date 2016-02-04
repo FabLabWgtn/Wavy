@@ -71,11 +71,11 @@ title: Concepts
 
 37small
 
-![Image]({{site.baseurl}}/working/concepts/37small)![Image]({{site.baseurl}}/working/concepts/37small)
+![Image]({{site.baseurl}}/working/concepts/37small.jpg)![Image]({{site.baseurl}}/working/concepts/37small.jpg)
 
 test
 
-![Image]({{site.baseurl}}/working/concepts/37small)
-![Image]({{site.baseurl}}/working/concepts/37small)
+![Image]({{site.baseurl}}/working/concepts/37small.jpg)
+![Image]({{site.baseurl}}/working/concepts/37small.jpg)
 
 done
