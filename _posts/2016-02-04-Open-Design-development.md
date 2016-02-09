@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Development
+title: Development Progress
 ---
 
 ![Image]({{site.baseurl}}/working/concepts/30.JPG)
