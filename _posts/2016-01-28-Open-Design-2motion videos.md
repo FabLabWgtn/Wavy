@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mood Book
+title: Videos
 ---
 
 <body>
