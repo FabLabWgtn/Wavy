@@ -40,3 +40,17 @@ title: Development
 ![Image]({{site.baseurl}}/working/Model Progress/MP9.jpg)
 
 ![Image]({{site.baseurl}}/working/Model Progress/MP10.jpg)
+
+<h2>Lamp Head Iteration</h2>
+
+![Image]({{site.baseurl}}/working/Model Progress/LI1.jpg)
+
+![Image]({{site.baseurl}}/working/Model Progress/LI2.jpg)
+
+![Image]({{site.baseurl}}/working/Model Progress/LI3.jpg)
+
+![Image]({{site.baseurl}}/working/Model Progress/LI4.jpg)
+
+![Image]({{site.baseurl}}/working/Model Progress/LI5.jpg)
+
+![Image]({{site.baseurl}}/working/Model Progress/LI 6.jpg)
