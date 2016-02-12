@@ -90,4 +90,12 @@ title: Videos
 <p>	-Examples of how light can be used to form interesting visuals</p>
 
 
+<br>
+<h3>Iris Mechanism</h3>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/q4YDmDJa_Mk" frameborder="0" allowfullscreen></iframe>
+<p>	-Apperture Mechanism</p>
+<p>	-Can be incorporated with the Lamp Shade</p>
+<p>	-Will be able to control the light by opening and closing the mechanism</p>
+
+
 </body>
