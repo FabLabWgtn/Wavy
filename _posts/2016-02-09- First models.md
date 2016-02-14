@@ -11,7 +11,7 @@ title: First Models
 ![Image]({{site.baseurl}}/working/Model Progress/MP1.jpg)
 
 ![Image]({{site.baseurl}}/working/Model Progress/MP5.jpg)
-![Image]({{site.baseurl}}/working/Model Progress/IMG_8185.jpg)
+![Image]({{site.baseurl}}/working/Model Progress/IMG_8190.jpg)
 
 <p>Our first model works really well. It is able to move into different positions by having notches that can keep the lamps in a certain place without moving by itself. It is quite chunky and the lamp head is heavy looking in comparison to other lights already designed.</p>
 
