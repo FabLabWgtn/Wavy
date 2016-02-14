@@ -25,5 +25,3 @@ testing apllication methods of panels to lamp section
 ![Image]({{site.baseurl}}/working/concepts/37.JPG)
 3D draft to test mechanics of joints
 
-![Image]({{site.baseurl}}/working/concepts/Lamp rotating panels.jpg)
-New panel design concept

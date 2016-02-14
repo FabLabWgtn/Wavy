@@ -8,7 +8,7 @@ title: Open Design Exemplar
 
 <img src="http://cdn.instructables.com/FOT/TTBT/HOSLKKT7/FOTTTBTHOSLKKT7.LARGE.jpg">
 
-<p>Our team was required to select an Open Design exemplar piece in order to provide a basis for reference, exploration and research. We chose to explore the <strong>Kerf Lamp</strong>
+<p>Our team was required to select an Open Design exemplar piece in order to provide a basis for reference, exploration and research. We chose to explore the <strong><u>Kerf Lamp</u></strong>
 Out of the three options offered it was the more refined design that had aspects which were still open to development, reflecting the nature of open source design. We saw lighting as a rich form of design, with many opportunities in designing with physical form and electronics.</p>
 
 <img src="http://cdn.instructables.com/F1Z/XIK1/HOUGGTRA/F1ZXIK1HOUGGTRA.LARGE.jpg">

@@ -11,4 +11,4 @@
 
 <img src="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2012/10/Cinimod-Studio-IceAngel4-537x359.jpg">
 
-These images give a good idea of the use of light, colour and shape that the light would have. It also gives some imput of the function the light would have to consumers.
+These images give a good idea of the use of light, colour and shape that the lamp would have. It also gives some imput of the function the light would have to consumers.
