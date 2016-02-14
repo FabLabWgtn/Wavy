@@ -1,4 +1,8 @@
-<h2>Lamp Head Iteration</h2>
+---
+layout: post
+title: Lamp head Iteration
+---
+
 
 ![Image]({{site.baseurl}}/working/Model Progress/LI1.jpg)
 
