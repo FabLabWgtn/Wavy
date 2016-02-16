@@ -1,18 +1,21 @@
 ---
 layout: post
-title: Development
+title: Base structure Development
 ---
 
-![Image]({{site.baseurl}}/working/concepts/f1.JPG)
+![Image]({{site.baseurl}}/working/development/d3.jpg)
+![Image]({{site.baseurl}}/working/development/d4.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/f2.JPG)
+![Image]({{site.baseurl}}/working/development/d7.jpg)
+![Image]({{site.baseurl}}/working/development/d8.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/f3.JPG)
+![Image]({{site.baseurl}}/working/development/d10.jpg)
+![Image]({{site.baseurl}}/working/development/d12.jpg)
+![Image]({{site.baseurl}}/working/development/d13.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/f4.JPG)
+![Image]({{site.baseurl}}/working/development/d15.jpg)
 
-![Image]({{site.baseurl}}/working/concepts/f5.JPG)
 
-![Image]({{site.baseurl}}/working/concepts/f6.JPG)
+
 
 
