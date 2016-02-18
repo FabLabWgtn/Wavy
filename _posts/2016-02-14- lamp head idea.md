@@ -13,3 +13,6 @@ title: Lamp head Iteration
 ![Image]({{site.baseurl}}/working/Model Progress/LI 6.jpg)
 
 <p>- Thought up a different lamp shade idea, so that the lamp shades can be changed. This ideally will be suitable to customise</p>
+
+![Image]({{site.baseurl}}/working/Model Progress/LH1.jpg)
+<p> Illustrator file testing lamp head concept.</p>
