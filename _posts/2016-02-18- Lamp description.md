@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Lamp description
+title: Our story
 ---
+
+
+![Image]({{site.baseurl}}/working/branding/our lamp.jpg)
+
 
 <p>The Orbit lamp is a interchangable, open design lamp to be downloaded, customized and assembled using Polar ply 4mm (A/A grade) and a simple arduino circuit to control the LED’s.</p>
 
