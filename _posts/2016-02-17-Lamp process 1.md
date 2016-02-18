@@ -16,3 +16,10 @@ title: Lamp Process 1
 ![Image]({{site.baseurl}}/working/IMG_1001.jpg)
 ![Image]({{site.baseurl}}/working/IMG_1002.jpg)
 ![Image]({{site.baseurl}}/working/IMG_1003.jpg)
+
+![Image]({{site.baseurl}}/working/IMG_1012.jpg)
+![Image]({{site.baseurl}}/working/IMG_1013.jpg)
+![Image]({{site.baseurl}}/working/IMG_1014.jpg)
+![Image]({{site.baseurl}}/working/IMG_1015.jpg)
+![Image]({{site.baseurl}}/working/IMG_1016.jpg)
+<p> -Parts for the power supply,to make the lamp work.</p>
