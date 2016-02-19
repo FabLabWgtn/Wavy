@@ -1,0 +1,65 @@
+Adweno
+
+ATMEGA 382P
+
+6x1 + 8x1 Header pins
+
+.1uf Capasator
+
+10uf capasator
+
+10K reistor
+
+499 Reistor
+
+LED 1206 SMD
+
+M06SMD
+
+Switch Tactile SMD w-gnd
+
+160gf N - Channel Mosefet
+
+5V regulator
+
+Circet board
+
+Mini PCB
+
+Electrical compoents
+
+12V Power supply (200MA+) with 6mm adapter plug 6mm power jack
+
+Ultra sonic motion sensor
+
+12V LED strip (3 LEDS)
+
+10x Single Port Female to Female Jumper Wires
+
+6x Single port Female to Male Jumper wires
+
+Materials
+
+Polar ply 4mm (A/A grade) Arcrilic Clear 3mm
+
+Programing Hardware
+
+AV programmer USB to TTL serial cable (3.3V)
+
+Multimeter
+
+Sotware
+
+Illustrator
+
+Arduino
+
+Eagle
+
+Equipment
+
+CIRCUIT ROUTER (ROLAND) LASER CUTTER
+
+PVA glue
+
+3mm Poly ply
